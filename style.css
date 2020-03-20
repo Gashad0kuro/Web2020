@@ -1,6 +1,0 @@
-body {padding-left: 10%; padding-right: 10%; padding-top: 10%;}
-div.horizontal{display: flex; flex-direction: row;}
-div.vertical{display: flex; flex-direction: column;}
-.center{ padding-left: 40%; padding-right: 40%;}
-
-div.buttonclass{display: flex; flex-direction: row;padding-top: 10px}
