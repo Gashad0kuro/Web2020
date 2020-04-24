@@ -1,0 +1,2 @@
+import   "./FirstTabScripts";
+import   "./SecondTabScripts";
