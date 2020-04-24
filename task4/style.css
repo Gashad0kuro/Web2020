@@ -1,0 +1,17 @@
+.main {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+
+.first {
+    font-style: inherit;
+    width: 30%;
+    padding-right: 5%;
+}
+
+.second {
+    font-style: initial;
+    width: 70%;
+    padding-left: 5%;
+}
